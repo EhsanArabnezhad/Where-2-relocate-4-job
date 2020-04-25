@@ -1,5 +1,4 @@
-# Write-A-Data-Science-Blog-Post
-Project in Data Scientist Nanodegree of Udacity
+# This is a project to briefly analyze the reason of relocating to USA
 
 ### Table of Contents
 
@@ -17,10 +16,9 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 
-1. As a programmer, should I go to work in the western world (e.g. America, Europe, etc.) or remain in the eastern world (e.g. India, China, etc.)?
-2. What is the salary difference in the western world and in the eastern world?
-3. How are the programmers satisfying about their job between these two sides of the world?
-4. Are there more jobs opportunity in the western world than that in the eastern world?
+1. As a programmer, should I go to work in the America world (e.g. USA, Canada, etc.) or remain in the Europe world (e.g. Italy, UK, etc.)?
+2. What is the salary difference in the 4 different regions that I analyze?
+3. How are the programmers satisfying about their job between these four sides of the world?
 
 ## File Descriptions <a name="files"></a>
 
@@ -28,7 +26,7 @@ The notebook available here showcases work related to the above questions.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@joshua.chyeung/go-to-the-western-world-if-you-are-a-programmer-1ccfac7e413a).
+The main findings of the code can be found at the post available [here](https://medium.com/@ehsanarabnezhad/here-is-why-you-need-to-relocate-to-america-in-you-are-a-programmer-9da05033625c).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 

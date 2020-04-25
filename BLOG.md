@@ -4,7 +4,7 @@ There are not many different views when it comes to the IT career that are biase
 Basically I try to find out which continent is considered beat for a developer to work in!
 
 
-# Question 1: Is iti better for me to relocate or Not?
+# Question 1: Is it better for me to relocate or Not?
 
 At the end of this blog we can understand that, regarding the salary a programmer get, America is the highly paid. In the next rank are Europe and Asia.
 But as every one may know Job satisfaction is not directly related to only Salary, there are much more criteria that should be investigated.
