@@ -26,7 +26,7 @@ The notebook available here showcases work related to the above questions.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@ehsanarabnezhad/here-is-why-you-need-to-relocate-to-america-in-you-are-a-programmer-9da05033625c).
+The main findings of the code can be found at the post available [here](https://medium.com/@ehsanarabnezhad/here-is-why-you-need-to-relocate-to-america-if-you-are-a-programmer-d75f1f8c715f).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
